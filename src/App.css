@@ -1,0 +1,12 @@
+.layout {
+  min-height: 100vh;
+}
+.header {
+  height: 7rem;
+  display: grid;
+  align-items: center;
+}
+
+header {
+  background: #001529;
+}
